@@ -1,0 +1,42 @@
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
+.circle img {
+    width: 100%;
+}
+.navbar-collapse {
+    flex-grow: inherit!important;
+}
+
+.header {
+    margin: 120px;
+}
+
+.card-body {
+    padding: 16px 0!important;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+img.bg-opacity {
+    opacity: 0.7;
+}
+
+img.bg-opacity:hover {
+    opacity: 1;
+}
+
+.navbar-brand {
+    text-decoration: underline!important;
+}
+
+span.badge.badge-dark {
+    background: #fff;
+    font-size: 14px;
+    color: #000;
+    margin: 4px;
+}
